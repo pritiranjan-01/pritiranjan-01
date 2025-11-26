@@ -51,9 +51,13 @@
 
 ## 🧪 Testing & Automation
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
 ---
 
-## 🧰 Other Tools
+## 🧰 Other Expertise
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-109989?style=for-the-badge&logo=api&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 
 # 📊 GitHub Stats:
